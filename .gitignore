@@ -1,0 +1,20 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Go
+bin/
+dist/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Local data
+*.db
+*.sqlite
+*.sqlite3
